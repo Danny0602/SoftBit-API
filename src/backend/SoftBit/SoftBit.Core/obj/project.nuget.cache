@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AlCyE44kSBlxmWHfTMDUczAuDlF40+kNYlSBwG2cEhTiOmsChmusO4KuTZ/XnnCBLUnQncGh3BMY1VUWw6YhFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dann_\\SoftBit\\src\\backend\\SoftBit\\SoftBit.Core\\SoftBit.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dann_\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

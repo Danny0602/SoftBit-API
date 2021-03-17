@@ -1,0 +1,12 @@
+C:\Users\dann_\SoftBit\src\backend\SoftBit\SoftBit.Core\bin\Debug\net5.0\SoftBit.Core.deps.json
+C:\Users\dann_\SoftBit\src\backend\SoftBit\SoftBit.Core\bin\Debug\net5.0\SoftBit.Core.dll
+C:\Users\dann_\SoftBit\src\backend\SoftBit\SoftBit.Core\bin\Debug\net5.0\ref\SoftBit.Core.dll
+C:\Users\dann_\SoftBit\src\backend\SoftBit\SoftBit.Core\bin\Debug\net5.0\SoftBit.Core.pdb
+C:\Users\dann_\SoftBit\src\backend\SoftBit\SoftBit.Core\obj\Debug\net5.0\SoftBit.Core.csprojAssemblyReference.cache
+C:\Users\dann_\SoftBit\src\backend\SoftBit\SoftBit.Core\obj\Debug\net5.0\SoftBit.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dann_\SoftBit\src\backend\SoftBit\SoftBit.Core\obj\Debug\net5.0\SoftBit.Core.AssemblyInfoInputs.cache
+C:\Users\dann_\SoftBit\src\backend\SoftBit\SoftBit.Core\obj\Debug\net5.0\SoftBit.Core.AssemblyInfo.cs
+C:\Users\dann_\SoftBit\src\backend\SoftBit\SoftBit.Core\obj\Debug\net5.0\SoftBit.Core.csproj.CoreCompileInputs.cache
+C:\Users\dann_\SoftBit\src\backend\SoftBit\SoftBit.Core\obj\Debug\net5.0\SoftBit.Core.dll
+C:\Users\dann_\SoftBit\src\backend\SoftBit\SoftBit.Core\obj\Debug\net5.0\ref\SoftBit.Core.dll
+C:\Users\dann_\SoftBit\src\backend\SoftBit\SoftBit.Core\obj\Debug\net5.0\SoftBit.Core.pdb
